@@ -25,6 +25,7 @@ export const adPrefetch = {
   // Keep the list in alphabetic order
   a9: 'https://c.amazon-adsystem.com/aax2/assoc.js',
   adblade: 'https://web.adblade.com/js/ads/async/show.js',
+  adgear: 'https://a.adgear.com/adgear.js/current/adgear.js',
   adgeneration: 'https://i.socdm.com/sdk/js/adg-script-loader.js',
   // TODO: Remove this once we switch over to the direct request version of adsense.js.
   adsense: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
@@ -90,6 +91,7 @@ export const adPreconnect = {
     'https://static.adblade.com',
   ],
   adform: 'https://track.adform.net',
+  adgear: 'https://d.adgear.com',
   adition: 'https://imagesrv.adition.com',
   adreactor: 'https://adserver.adreactor.com',
   adsense: 'https://googleads.g.doubleclick.net',

@@ -39,6 +39,7 @@ import {twitter} from './twitter';
 import {a9} from '../ads/a9';
 import {adblade, industrybrains} from '../ads/adblade';
 import {adform} from '../ads/adform';
+import {adgear} from '../ads/adgear';
 import {adgeneration} from '../ads/adgeneration';
 import {adition} from '../ads/adition';
 import {adman} from '../ads/adman';
@@ -106,6 +107,7 @@ const AMP_EMBED_ALLOWED = {
 register('a9', a9);
 register('adblade', adblade);
 register('adform', adform);
+register('adgear', adgear);
 register('adgeneration', adgeneration);
 register('adition', adition);
 register('adman', adman);
